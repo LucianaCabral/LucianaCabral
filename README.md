@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### A bit about myself ###
+### A little bit about myself ###
 - 🌱 I’m an Android developer from Brazil
 - 😄 Pronouns: she/her
 
